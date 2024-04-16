@@ -7,7 +7,8 @@ Modification: Mariem Tajouri 02/04/2024
 modifier: bonjour mariem 
 modifier: 02/042024
 contenu cree pour tester ... 
-modification 16/04/2024
+modification 16/04/2024 
+update 16/04/2024
 This is Massively, a text-heavy, article-oriented design built around a huge background
 image (with a new parallax implementation I'm testing) and scroll effects (powered by
 Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
